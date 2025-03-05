@@ -1,0 +1,14 @@
+d
+YC:\Users\PC\Desktop\API\apiweb\obj\Debug\net8.0\ApiWeb.MvcApplicationPartsAssemblyInfo.csutf-8Q
+FC:\Users\PC\Desktop\API\apiweb\obj\Debug\net8.0\ApiWeb.AssemblyInfo.csutf-8i
+^C:\Users\PC\Desktop\API\apiweb\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8S
+HC:\Users\PC\Desktop\API\apiweb\obj\Debug\net8.0\ApiWeb.GlobalUsings.g.csutf-8D
+;C:\Users\PC\Desktop\API\apiweb\Services\MandrilDataStore.csutf-82
+)C:\Users\PC\Desktop\API\apiweb\Program.csutf-8?
+6C:\Users\PC\Desktop\API\apiweb\Models\MandrilInsert.csutf-89
+0C:\Users\PC\Desktop\API\apiweb\Models\Mandril.csutf-8A
+8C:\Users\PC\Desktop\API\apiweb\Models\HabilidadInsert.csutf-8;
+2C:\Users\PC\Desktop\API\apiweb\Models\Habilidad.csutf-8;
+2C:\Users\PC\Desktop\API\apiweb\Helpers\Mensajes.csutf-8J
+AC:\Users\PC\Desktop\API\apiweb\Controllers\HabilidadController.csutf-8H
+?C:\Users\PC\Desktop\API\apiweb\Controllers\MandrilController.csutf-8
